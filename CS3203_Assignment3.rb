@@ -23,3 +23,4 @@ str = gets.to_s
 nums = str.split(" ").map(&:to_i)
 puts "Addition: #{add_nums(nums)}"
 puts "Multiplication: #{multiply_nums(nums)}"
+puts "Reversed: #{reverse_array(nums)}"
