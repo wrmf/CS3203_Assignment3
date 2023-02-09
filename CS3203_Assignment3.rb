@@ -14,6 +14,10 @@ def multiply_nums(array)
   temp #return temp
 end
 
+def reverse_array(array)
+  array.reverse
+end
+
 puts "Please enter numbers to add and multiply seperated by spaces"
 str = gets.to_s
 nums = str.split(" ").map(&:to_i)
