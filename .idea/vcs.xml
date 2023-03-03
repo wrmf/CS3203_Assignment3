@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_lightningData" vcs="Git" />
   </component>
 </project>
