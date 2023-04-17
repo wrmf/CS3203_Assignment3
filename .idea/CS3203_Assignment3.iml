@@ -9,5 +9,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="AI2ES_lightningData" />
     <orderEntry type="module" module-name="AI2ES_5MinGrid" />
+    <orderEntry type="module" module-name="CS3203_DockerTest" />
+    <orderEntry type="module" module-name="CS3203_Assignment5" />
+    <orderEntry type="module" module-name="FR24toForeFlight" />
+    <orderEntry type="module" module-name="CS3203_Project1" />
+    <orderEntry type="module" module-name="temp" />
+    <orderEntry type="module" module-name="MTG" />
   </component>
 </module>

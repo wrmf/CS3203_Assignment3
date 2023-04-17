@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="025f5ce2-3c84-493a-b42f-a8de7635c577" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/.idea/AI2ES_5MinGrid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/.idea/AI2ES_5MinGrid.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CS3203_Assignment3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS3203_Assignment3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +26,18 @@
     <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CS3203_Project1" />
   </component>
   <component name="GitRewordedCommitMessages">
     <option name="onto" value="28437dfb8e237db8537a4548a4eb985bcf7ccd49" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,9 +49,73 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../fun/MTG" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../../fun/MTG" />
+      <recent name="$PROJECT_DIR$/../CS3203_Project1/templates" />
+      <recent name="$PROJECT_DIR$/../CS3203_Project1/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../../fun/MTG/static" />
+      <recent name="$PROJECT_DIR$/../../../../../fun/temp" />
+      <recent name="$PROJECT_DIR$/../CS3203_Project1" />
+      <recent name="$PROJECT_DIR$/../CS3203_Project1/modules" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.grid">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS3203_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CS3203_Project1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CS3203_Project1/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS3203_Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CS3203_Assignment5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CS3203_Assignment5/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI2ES_5MinGrid" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xarrayTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI2ES_5MinGrid" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +146,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../fun/temp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/xarrayTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../fun/temp/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FR24toForeFlight" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/AI2ES_5MinGrid/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../fun/FR24toForeFlight" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../fun/FR24toForeFlight/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,6 +185,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.grid" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +205,38 @@
       <workItem from="1676587247258" duration="4195000" />
       <workItem from="1676914898484" duration="151000" />
       <workItem from="1677872366735" duration="117000" />
-      <workItem from="1677873468233" duration="300000" />
+      <workItem from="1677873468233" duration="2807000" />
+      <workItem from="1678226991053" duration="3567000" />
+      <workItem from="1678236525535" duration="2321000" />
+      <workItem from="1678400587382" duration="9159000" />
+      <workItem from="1678418337298" duration="7305000" />
+      <workItem from="1678502617353" duration="135000" />
+      <workItem from="1678551746547" duration="775000" />
+      <workItem from="1678764897996" duration="634000" />
+      <workItem from="1679330514210" duration="6665000" />
+      <workItem from="1679339383201" duration="71000" />
+      <workItem from="1679342997923" duration="2470000" />
+      <workItem from="1679351348765" duration="2028000" />
+      <workItem from="1679412248373" duration="7017000" />
+      <workItem from="1679420903382" duration="3841000" />
+      <workItem from="1679431178782" duration="3516000" />
+      <workItem from="1679495571352" duration="1943000" />
+      <workItem from="1679544917060" duration="616000" />
+      <workItem from="1679938328965" duration="3001000" />
+      <workItem from="1680039759296" duration="1354000" />
+      <workItem from="1680113963874" duration="577000" />
+      <workItem from="1680114604251" duration="1164000" />
+      <workItem from="1680220915466" duration="47000" />
+      <workItem from="1680281814757" duration="5740000" />
+      <workItem from="1680541129980" duration="3577000" />
+      <workItem from="1680644408514" duration="2255000" />
+      <workItem from="1680646794251" duration="637000" />
+      <workItem from="1681320522755" duration="2823000" />
+      <workItem from="1681325585015" duration="46000" />
+      <workItem from="1681420969215" duration="4093000" />
+      <workItem from="1681437153594" duration="3126000" />
+      <workItem from="1681489224260" duration="6228000" />
+      <workItem from="1681687692042" duration="2889000" />
     </task>
     <servers />
   </component>
@@ -127,7 +255,12 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CS3203_Assignment3$grid.coverage" NAME="grid Coverage Results" MODIFIED="1677873752877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid" />
+    <SUITE FILE_PATH="coverage/CS3203_Assignment3$grid.coverage" NAME="grid Coverage Results" MODIFIED="1681688451674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid" />
+    <SUITE FILE_PATH="coverage/CS3203_Assignment3$main.coverage" NAME="main Coverage Results" MODIFIED="1678478775673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../fun/FR24toForeFlight" />
+    <SUITE FILE_PATH="coverage/CS3203_Assignment3$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1681442538435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../fun/temp" />
   </component>
 </project>

@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/.idea/AI2ES_5MinGrid.iml" filepath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_5MinGrid/.idea/AI2ES_5MinGrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../AI2ES/AI2ES_lightningData/.idea/AI2ES_lightningData.iml" filepath="$PROJECT_DIR$/../../../../../AI2ES/AI2ES_lightningData/.idea/AI2ES_lightningData.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CS3203_Assignment3.iml" filepath="$PROJECT_DIR$/.idea/CS3203_Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CS3203_Assignment5/.idea/CS3203_Assignment5.iml" filepath="$PROJECT_DIR$/../CS3203_Assignment5/.idea/CS3203_Assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CS3203_DockerTest/.idea/CS3203_DockerTest.iml" filepath="$PROJECT_DIR$/../CS3203_DockerTest/.idea/CS3203_DockerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CS3203_Project1/.idea/CS3203_Project1.iml" filepath="$PROJECT_DIR$/../CS3203_Project1/.idea/CS3203_Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../fun/FR24toForeFlight/.idea/FR24toForeFlight.iml" filepath="$PROJECT_DIR$/../../../../../fun/FR24toForeFlight/.idea/FR24toForeFlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../fun/MTG/.idea/MTG.iml" filepath="$PROJECT_DIR$/../../../../../fun/MTG/.idea/MTG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../fun/temp/.idea/temp.iml" filepath="$PROJECT_DIR$/../../../../../fun/temp/.idea/temp.iml" />
     </modules>
   </component>
 </project>
